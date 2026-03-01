@@ -67,36 +67,6 @@ UNIDAD 4 — Estructuras de Datos y Funciones
       evaluar_seguridad(contrasena, opciones)  retorna: str
       guardar_en_historial(contrasena, longitud, nivel)
       mostrar_historial()
-
--------------------------------------
-CÓMO EJECUTAR EL PROGRAMA
--------------------------------------
-Requisitos: Python 3 instalado
--------------------------------------
-EJEMPLO DE USO
--------------------------------------
-Bienvenido al Generador de Contraseñas Seguras
-
-========================================
-   GENERADOR DE CONTRASENAS SEGURAS
-========================================
-1. Generar una nueva contrasena
-2. Ver historial de contrasenas
-3. Salir
-========================================
-
-Elige una opcion (1, 2 o 3): 1
-Que longitud quieres para tu contrasena? (minimo 8, maximo 30): 16
-Incluir MAYUSCULAS? (s/n): s
-Incluir NUMEROS? (s/n): s
-Incluir SIMBOLOS (!@#...)? (s/n): s
-
-========================================
-  Tu contrasena generada es:
-  gT3!mK#9pLw@Xn2&
-  Nivel de seguridad: FUERTE
-========================================
-
 -------------------------------------
 DATOS DEL GRUPO
 -------------------------------------
