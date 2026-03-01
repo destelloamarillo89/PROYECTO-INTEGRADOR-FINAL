@@ -2,7 +2,9 @@ GENERADOR DE CONTRASEÑAS SEGURAS MEJORADO
 =====================================
 
 Materia: Lógica de Programación
+
 Proyecto Integrador: El impacto de las nuevas tecnologías en la sociedad: visualización del futuro
+
 Fecha: 01/03/2025
 
 -------------------------------------
